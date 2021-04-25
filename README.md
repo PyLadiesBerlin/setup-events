@@ -3,6 +3,8 @@ Introduction of topics to get ready for programming in Python, followd by a lear
 
 Getting over the first hurdles can be a tricky part. Our annual PyLadies Setup Events bring people together to learn about programming in Python, how to get started with Python IDE's, virtual environments or basic functionalities. You are beginning your Python journey (again) just now? Let's do this together!
 
+Checkout previous [topics >>](https://github.com/PyLadiesBerlin/setup-events/tree/main/topics)
+
 ## Typical structure 
 This is a regular Meetup in a smaller learning group to give learners ( especially Python newcommers ) a save and comfortable space. Everyone is welcome to join in, if a refresh is needed or if you are just starting to dip your toes into the wild and magnificent ocean of Python programming.
 
