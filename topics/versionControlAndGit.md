@@ -10,3 +10,8 @@
 7. Fork and clone a repository
 
 ## Steps:
+# Preparations
+1. Install git on your system
+2. Configure Git on your system
+
+# Git Workflow 
